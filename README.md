@@ -1,3 +1,7 @@
+To add a record, simply enter the names of the home team and away team in the respective input fields and click the "Add Record" button. The new match will be added to the scoreboard, and you can update its scores as well.
+
+The test covers adding multiple matches, updating scores, finishing games, and ensuring the correct summary order. The test also verifies that the summary of games in progress is displayed correctly and ordered by total score. It checks that the summary items are rendered and in the expected order.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
